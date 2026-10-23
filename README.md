@@ -13,7 +13,6 @@
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white)
-[![tests](https://github.com/daniaalhayk/SmartParkSense/actions/workflows/ci.yml/badge.svg)](https://github.com/daniaalhayk/SmartParkSense/actions/workflows/ci.yml)
 
 </div>
 
@@ -158,11 +157,6 @@ SmartParkSense/
 ├── spaces.py          # Parking-space coordinate utilities
 └── yolov8n.pt          # YOLOv8n model weights
 ```
-
-
-
-The tests cover the space files, the occupancy logic and the database. They do not load YOLO and do not need a video.
-
 
 ## 📄 License
 
